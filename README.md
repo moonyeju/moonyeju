@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=Moon%20YeJu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=f699cd&height=300&section=header&text=Moon%20YeJu&fontSize=90)
 
 tech stack
 ---
